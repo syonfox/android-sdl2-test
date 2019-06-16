@@ -1,5 +1,1 @@
-[armeabi-v7a] Compile++ thumb: main <= main.cpp
-[armeabi-v7a] StaticLibrary  : libjpeg.a
-[armeabi-v7a] StaticLibrary  : libpng.a
-[armeabi-v7a] SharedLibrary  : libSDL2_image.so
-[armeabi-v7a] SharedLibrary  : libmain.so
+make: `/home/syonfox/Documents/android_projects/belt/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libmain.so' is up to date.

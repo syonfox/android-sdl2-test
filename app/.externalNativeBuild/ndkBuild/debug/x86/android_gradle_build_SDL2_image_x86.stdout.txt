@@ -1,6 +1,1 @@
-[x86] Prebuilt       : libc++_shared.so <= <NDK>/sources/cxx-stl/llvm-libc++/libs/x86/
-[x86] SharedLibrary  : libhidapi.so
-[x86] SharedLibrary  : libSDL2.so
-[x86] StaticLibrary  : libjpeg.a
-[x86] StaticLibrary  : libpng.a
-[x86] SharedLibrary  : libSDL2_image.so
+make: `/home/syonfox/Documents/android_projects/belt/app/build/intermediates/ndkBuild/debug/obj/local/x86/libSDL2_image.so' is up to date.

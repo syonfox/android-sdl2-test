@@ -1,3 +1,1 @@
-[armeabi-v7a] Prebuilt       : libc++_shared.so <= <NDK>/sources/cxx-stl/llvm-libc++/libs/armeabi-v7a/
-[armeabi-v7a] SharedLibrary  : libhidapi.so
-[armeabi-v7a] SharedLibrary  : libSDL2.so
+make: `/home/syonfox/Documents/android_projects/belt/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libSDL2.so' is up to date.

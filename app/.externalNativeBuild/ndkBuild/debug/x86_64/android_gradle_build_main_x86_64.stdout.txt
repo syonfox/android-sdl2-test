@@ -1,2 +1,1 @@
-[x86_64] Compile++      : main <= main.cpp
-[x86_64] SharedLibrary  : libmain.so
+make: `/home/syonfox/Documents/android_projects/belt/app/build/intermediates/ndkBuild/debug/obj/local/x86_64/libmain.so' is up to date.
