@@ -1,0 +1,1 @@
+make: `/home/syonfox/Documents/android_projects/belt/app/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libmain.so' is up to date.

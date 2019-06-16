@@ -1,0 +1,4 @@
+#Sun Jun 16 13:45:46 PDT 2019
+base.0=/home/syonfox/Documents/android_projects/belt/app/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,1 @@
+make: `/home/syonfox/Documents/android_projects/belt/app/build/intermediates/ndkBuild/debug/obj/local/x86_64/libSDL2.so' is up to date.

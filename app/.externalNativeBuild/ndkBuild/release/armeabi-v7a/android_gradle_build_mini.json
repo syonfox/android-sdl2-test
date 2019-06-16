@@ -1,0 +1,47 @@
+{
+  "buildFiles": [
+    "/home/syonfox/Documents/android_projects/belt/app/jni/Android.mk",
+    "/home/syonfox/Documents/android_projects/belt/app/jni/Application.mk"
+  ],
+  "cleanCommands": [
+    "/home/syonfox/Android/Sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/syonfox/Documents/android_projects/belt/app/jni/Android.mk NDK_APPLICATION_MK\u003d/home/syonfox/Documents/android_projects/belt/app/jni/Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/home/syonfox/Documents/android_projects/belt/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/syonfox/Documents/android_projects/belt/app/build/intermediates/ndkBuild/release/lib APP_PLATFORM\u003dandroid-16 clean"
+  ],
+  "libraries": {
+    "jpeg-release-armeabi-v7a": {
+      "artifactName": "jpeg",
+      "buildCommand": "/home/syonfox/Android/Sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/syonfox/Documents/android_projects/belt/app/jni/Android.mk NDK_APPLICATION_MK\u003d/home/syonfox/Documents/android_projects/belt/app/jni/Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/home/syonfox/Documents/android_projects/belt/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/syonfox/Documents/android_projects/belt/app/build/intermediates/ndkBuild/release/lib APP_PLATFORM\u003dandroid-16 /home/syonfox/Documents/android_projects/belt/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libjpeg.a",
+      "abi": "armeabi-v7a",
+      "output": "/home/syonfox/Documents/android_projects/belt/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libjpeg.a"
+    },
+    "main-release-armeabi-v7a": {
+      "artifactName": "main",
+      "buildCommand": "/home/syonfox/Android/Sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/syonfox/Documents/android_projects/belt/app/jni/Android.mk NDK_APPLICATION_MK\u003d/home/syonfox/Documents/android_projects/belt/app/jni/Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/home/syonfox/Documents/android_projects/belt/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/syonfox/Documents/android_projects/belt/app/build/intermediates/ndkBuild/release/lib APP_PLATFORM\u003dandroid-16 /home/syonfox/Documents/android_projects/belt/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libmain.so",
+      "abi": "armeabi-v7a",
+      "output": "/home/syonfox/Documents/android_projects/belt/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libmain.so"
+    },
+    "SDL2-release-armeabi-v7a": {
+      "artifactName": "SDL2",
+      "buildCommand": "/home/syonfox/Android/Sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/syonfox/Documents/android_projects/belt/app/jni/Android.mk NDK_APPLICATION_MK\u003d/home/syonfox/Documents/android_projects/belt/app/jni/Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/home/syonfox/Documents/android_projects/belt/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/syonfox/Documents/android_projects/belt/app/build/intermediates/ndkBuild/release/lib APP_PLATFORM\u003dandroid-16 /home/syonfox/Documents/android_projects/belt/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libSDL2.so",
+      "abi": "armeabi-v7a",
+      "output": "/home/syonfox/Documents/android_projects/belt/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libSDL2.so"
+    },
+    "hidapi-release-armeabi-v7a": {
+      "artifactName": "hidapi",
+      "buildCommand": "/home/syonfox/Android/Sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/syonfox/Documents/android_projects/belt/app/jni/Android.mk NDK_APPLICATION_MK\u003d/home/syonfox/Documents/android_projects/belt/app/jni/Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/home/syonfox/Documents/android_projects/belt/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/syonfox/Documents/android_projects/belt/app/build/intermediates/ndkBuild/release/lib APP_PLATFORM\u003dandroid-16 /home/syonfox/Documents/android_projects/belt/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libhidapi.so",
+      "abi": "armeabi-v7a",
+      "output": "/home/syonfox/Documents/android_projects/belt/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libhidapi.so"
+    },
+    "SDL2_image-release-armeabi-v7a": {
+      "artifactName": "SDL2_image",
+      "buildCommand": "/home/syonfox/Android/Sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/syonfox/Documents/android_projects/belt/app/jni/Android.mk NDK_APPLICATION_MK\u003d/home/syonfox/Documents/android_projects/belt/app/jni/Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/home/syonfox/Documents/android_projects/belt/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/syonfox/Documents/android_projects/belt/app/build/intermediates/ndkBuild/release/lib APP_PLATFORM\u003dandroid-16 /home/syonfox/Documents/android_projects/belt/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libSDL2_image.so",
+      "abi": "armeabi-v7a",
+      "output": "/home/syonfox/Documents/android_projects/belt/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libSDL2_image.so"
+    },
+    "png-release-armeabi-v7a": {
+      "artifactName": "png",
+      "buildCommand": "/home/syonfox/Android/Sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/syonfox/Documents/android_projects/belt/app/jni/Android.mk NDK_APPLICATION_MK\u003d/home/syonfox/Documents/android_projects/belt/app/jni/Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/home/syonfox/Documents/android_projects/belt/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/syonfox/Documents/android_projects/belt/app/build/intermediates/ndkBuild/release/lib APP_PLATFORM\u003dandroid-16 /home/syonfox/Documents/android_projects/belt/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libpng.a",
+      "abi": "armeabi-v7a",
+      "output": "/home/syonfox/Documents/android_projects/belt/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libpng.a"
+    }
+  }
+}
